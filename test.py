@@ -1,1 +1,3 @@
-//hackerrank equal levels?
+a = 5
+b = 9
+print(a+b)
