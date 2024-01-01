@@ -1,1 +1,3 @@
-//count how mnany times variable is updated to higher frequency from list?
+a = 3
+b = 2
+print(a + b)
