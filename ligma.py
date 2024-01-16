@@ -1,3 +1,2 @@
-a = 3
-b = 2
-print(a + b)
+for number in range(3):
+    print("Attempt", number)
